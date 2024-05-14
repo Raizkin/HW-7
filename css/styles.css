@@ -1,4 +1,16 @@
-[href="https://www.youtube.com/"] {
+:root {
+    --aceent-color: #2196F3;
+    --logo-color: #000;
+    --title-color: #FFF;
+    --desk-color: #757575;
+    --footer-background: #2F303A;
+--telfooter-color: rgba(255, 255, 255, 0.60);
+--backgroundteam-color: #F5F4FA;
+--textdoing-color: #212121;
+
+
+    
+    }[href="https://www.youtube.com/"] {
     color: red;
     }
     [href="https://validator.w3.org/"] {
